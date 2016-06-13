@@ -1,0 +1,11 @@
+body,ul,ol,dl,li,p,pre,span,table,h1,h2,h3,h4,h5,h6,a,input{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	font-family: "微软雅黑";
+	font-weight: normal;
+}
+img{
+	border:0;
+}
